@@ -34,8 +34,8 @@ This code has been used in research in conjunction with other codes to explore p
 ---
 This research code is used in combination with calc_sb_evol.py. It generates random parameters with which the rotational evolution models are generated, and then assesses the goodness of fit of the resulting model using the tau squared statistic. This statistic assesses the fit in two dimensions (rotation period and mass). An example of the resulting parameter space explored (varying only 3 parameters in the model) is shown in the corner plot below, which shows the correlations between each of the parameters and a 1d histogram of the samples drawn from the probability distribtuion. 
 
-<p align="center">
+
  <img src="corner.pdf"/> 
-</p>
+
 
 The code can also vary 17 more parameters at once. Results for this have not yet been published - stay tuned! 
