@@ -21,10 +21,10 @@ Similarly, the convergence of rotation rates depends on mass:
 
 The code can also evolve entire clusters of stars (consisting of a range of initial rotation rates and stellar masses) forwards in time, to some desired final age. The resulting evolved cluster can be plotted on a rotation-period vs mass diagram (PMD) to show a distribution of rotation rates for a group of coeval stars. This distribution can then be expressed as a probability density on the PMD using either brute force (see Breimann et al 2021) or deterministic methods (see Breimann et al 2022 in prep). Such a distribution is shown below, where a uniform distribution of model stars has been evolved to the age of the Prasepe cluster, shown as white points. 
 
+
 <p align="center">
   <img style='vertical-align:middle;' src="PMD.png" alt="drawing" width="400"/> 
 </p>
-
 
 
 This code has been used in research in conjunction with other codes to explore parameter space of convective turnover times and torque laws (both of which alter the rotational evolution and hence the distribution of the model on the PMD and how well it fits to observed data). 
@@ -39,3 +39,6 @@ This research code is used in combination with calc_sb_evol.py. It generates ran
 </p>
 
 The code can also vary 17 more parameters at once. Results for this have not yet been published - stay tuned! 
+
+
+
