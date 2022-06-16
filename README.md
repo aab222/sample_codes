@@ -1,6 +1,6 @@
 # sample_codes
 
-A sample of coding work done during my PhD, which was on statistical fitting of stellar rotation evolution models. (Note: plotting is done in other routines). Physical models that optimally fit rotation data allow for the more robust use of the gyrochronology technique (whereby a star's age can be inferred from its mass and rotation rate), and also give us a greater insight into the magnetised stellar wind physics (which govern the rotational evolution) of these stars. More details can be found in Breimann 2021, accessed through this link: https://ui.adsabs.harvard.edu/abs/2021ApJ...913...75B/abstract. 
+A sample of coding work done during my PhD, which was on statistical fitting of stellar rotation evolution models. (Note: plotting is done in other routines). Physical models that optimally fit rotation data allow for the more robust use of the gyrochronology technique (whereby a star's age can be inferred from its mass and rotation rate), and also give us a greater insight into the magnetised stellar wind physics (which govern the rotational evolution) of these stars. More details can be found in Breimann 2021, accessible [here](https://ui.adsabs.harvard.edu/abs/2021ApJ...913...75B/abstract). 
 
 
 **calc_sb_evol.py:**
