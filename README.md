@@ -6,6 +6,7 @@ A sample of coding work done during my PhD, which was on statistical fitting of 
 Codes:
 
 <u>calc_sb_evol.py</u>
+<title>HTML u tag</title>
 
 Given an initial age, mass and angular velocity, the code can evolve a single star's rotation rate forwards in time. The following Figure shows the rotational evolution of five stars, all solar mass but initialised at different rotation rates. The fastest and slowest stars are depicted with dashed lines.  The rotation rates converge with time. 
 
